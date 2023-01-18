@@ -1,6 +1,6 @@
 # DMIT2015 Winter 2023 Term Workbook Repository
 
-## Don VO
+## Don Vo
 
 ## dvo6
 
